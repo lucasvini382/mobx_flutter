@@ -1,20 +1,9 @@
 # mobx_flutter
 
-A new Flutter project.
+Projeto em Flutter criado com o objetivo de entender o gerenciamento de estados utilizando o Package [MobX](https://pub.dev/packages/mobx)
+
+A aplicação consiste em um formulário que possui os campos de nome e e-mail e é validado dinamicamente com a utilização do MobX. Como rotineiramente faço apenas a utilização do Provider, decidi estudar um pouco mais sobre outras ferramentas de gerenciamento de estados e o MobX foi a que decidi estudar para expandir os conhecimentos no framework Flutter.
 
 <p align="center">
     <img src="assets/to-readme/flutter_mobx.gif" alt="">
 </p>
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
