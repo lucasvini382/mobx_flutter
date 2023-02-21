@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<p align="center">
+    <img src="assets/to-readme/flutter_mobx.gif" alt="">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
